@@ -7,12 +7,12 @@
  <h2 align="center"> GetGoing </h2>
 
 <p align="center"> Resources for the getgoing course </p>
-  
 
 
 <br>
 
 ### Course structure
+
 The course file structure
 
 ```
@@ -78,6 +78,7 @@ getgoing
 <br>
 
 ### References
+
 - https://golang.org/
 - https://gobyexample.com/
 - https://godoc.org/
