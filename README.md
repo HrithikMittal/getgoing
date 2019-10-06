@@ -36,7 +36,7 @@ getgoing
 │   ├── 09-control
 │   └── 10-outro
 ├── 04-section3
-│   ├── 01-intro
+│   ├── 01-introduction
 │   ├── 02-concurrency
 │   ├── 03-concurrency
 │   ├── 04-sync-vs-async
@@ -65,7 +65,7 @@ getgoing
 │   ├── 14-project-outro
 │   └── 15-outro
 ├── 06-section5
-│   ├── 01-intro
+│   ├── 01-introduction
 │   ├── 02-hosting
 │   ├── 03-hosting-steps
 │   ├── 04-vendoring
